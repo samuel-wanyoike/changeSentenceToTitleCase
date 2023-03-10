@@ -1,1 +1,1 @@
-# changeSentenceToUpperCase
+# changeSentenceToTitleCase
